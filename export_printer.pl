@@ -1,7 +1,5 @@
 #!/usr/bin/perl
 #
-#	(cL) 2014 Joseph Lazzaro jlazzaro2@uh.edu
-#
 #	Read the full configuration of a locally installed printer and generate
 #	a shell script that can be run to add the printer, exactly as configured,
 #	on another system. The printer driver must, of course, already be installed.
